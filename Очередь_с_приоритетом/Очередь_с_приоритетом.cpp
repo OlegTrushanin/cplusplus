@@ -162,4 +162,6 @@ void main()
 	cout << "выводим все элементы очереди и их приоритет"  << endl;
 	
 	QUP.Show();
+
+	cout << "Hello world";
 }
